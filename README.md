@@ -1,1 +1,3 @@
-The repository's files are used to document every bit of python learning！！
+从8月20号开始学习python，通过视频和书籍自学。
+并将每一天学习到的东西，用jupyter notebook做好总结。
+这个仓库用于存储笔记，以便日后回顾。
